@@ -27,7 +27,7 @@
 
 - 🧠 DevOps Engineer passionate about automation, CI/CD, and cloud infrastructure  
 - ☁️ Skilled with AWS, Azure, Docker, Kubernetes, and Terraform  
-- 🐍 Python developer for scripting and automation  
+- 🐍 Python developer for scripting and automation and Django Developer 
 - ⚙️ Interested in system reliability and scalable deployments  
 - 💡 Always exploring new tools and technologies in the DevOps ecosystem  
 
